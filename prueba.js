@@ -2,8 +2,16 @@ for (let index = 0; index < 5; index++) {
     console.log('hola vez' + i )
     
 }
+console.log(' aca se va a complicar ');
 
-//Acá probando conflictos de git
+
+
+for (let index = 0; index < 5; index++) {
+    console.log('hola  2 vez' + i )
+    
+}
+
+//Acá probando conflictos  
 console.log('Hola Carli aguanten tus cambios');
 //Sebastián prueba de error
 //Agregando una línea
