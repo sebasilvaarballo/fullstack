@@ -11,7 +11,7 @@ for (let index = 0; index < 5; index++) {
     
 }
 
-//Acá probando conflictos de git
+//Acá probando conflictos  
 console.log('Hola Carli aguanten tus cambios');
 //Sebastián prueba de error
 //Agregando una línea
