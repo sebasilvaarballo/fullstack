@@ -10,3 +10,5 @@ for (let index = 0; index < 5; index++) {
     console.log('hola  2 vez' + i )
     
 }
+
+//Sebastián prueba de error
